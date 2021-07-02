@@ -1,0 +1,15 @@
+{
+    "sach": [
+        { "name": "Tư tưởng Việt Nam", "author": "H.Công Bá", "price": 585000, "page": 570, "id": 1 },
+        { "name": "La Sơn Phu Tử", "author": "H.Xuân Hãn", "price": 160000, "page": 301, "id": 2 },
+
+        { "name": "Bóng nước hồ Gươm", "author": "Chu Thiên", "price": 129000, "page": 519, "id": 3 },
+
+        { "name": "Sống chậm đợi nắng lên", "author": "X.Thảo", "price": 89000, "page": 120, "id": 4 },
+
+        { "name": "Sức mạnh của sự tử tế", "author": "j.Canfield", "price": 68000, "page": 160, "id": 5 }
+    ],
+    "profile": {
+        "name": "Sách quý"
+    }
+}
